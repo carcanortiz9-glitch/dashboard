@@ -1,0 +1,12 @@
+{
+  "name": "semaforo-clientes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "APP_PASSWORD=prueba node dev-server.mjs",
+    "icons": "node scripts/icons.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
